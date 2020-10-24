@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f28ee7d-63a2-42ff-86c8-5d8901f3e846" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hxDbSugTlFUuuF51tI30dofRTb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Python.DeckOFCards">
+    <configuration name="Bank" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Bank.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DeckOFCards" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/DeckOFCards.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Person" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Person.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.DeckOFCards" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Bank" />
+        <item itemvalue="Python.Person" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f28ee7d-63a2-42ff-86c8-5d8901f3e846" name="Default Changelist" comment="" />
+      <created>1600943921031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600943921031</updated>
+      <workItem from="1600943927843" duration="7525000" />
+      <workItem from="1601236282100" duration="809000" />
+      <workItem from="1602147295854" duration="6699000" />
+      <workItem from="1602757119675" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="179" key="#Inspections" timestamp="1600947316699">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="640" y="179" key="#Inspections/0.23.1440.825@0.23.1440.825" timestamp="1600947316699" />
+    <state width="1360" height="208" key="GridCell.Tab.0.bottom" timestamp="1602226861135">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1360" height="208" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1601015631147" />
+    <state width="1360" height="208" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1602226861135" />
+    <state width="1360" height="208" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1602159308063" />
+    <state width="1360" height="208" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1600948851145" />
+    <state width="1360" height="208" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1600951307805" />
+    <state width="1360" height="208" key="GridCell.Tab.0.center" timestamp="1602226861134">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1360" height="208" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1601015631145" />
+    <state width="1360" height="208" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1602226861134" />
+    <state width="1360" height="208" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1602159308062" />
+    <state width="1360" height="208" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1600948851145" />
+    <state width="1360" height="208" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1600951307803" />
+    <state width="1360" height="208" key="GridCell.Tab.0.left" timestamp="1602226861133">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1360" height="208" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1601015631144" />
+    <state width="1360" height="208" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1602226861133" />
+    <state width="1360" height="208" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1602159308062" />
+    <state width="1360" height="208" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1600948851144" />
+    <state width="1360" height="208" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1600951307802" />
+    <state width="1360" height="208" key="GridCell.Tab.0.right" timestamp="1602226861135">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1360" height="208" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1601015631146" />
+    <state width="1360" height="208" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1602226861135" />
+    <state width="1360" height="208" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1602159308063" />
+    <state width="1360" height="208" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1600948851145" />
+    <state width="1360" height="208" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1600951307804" />
+    <state width="1360" height="254" key="GridCell.Tab.1.bottom" timestamp="1601015630742">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1360" height="254" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1601015630742" />
+    <state width="1360" height="254" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1600947375579" />
+    <state width="1360" height="254" key="GridCell.Tab.1.center" timestamp="1601015630740">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1360" height="254" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1601015630740" />
+    <state width="1360" height="254" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1600947375579" />
+    <state width="1360" height="254" key="GridCell.Tab.1.left" timestamp="1601015630739">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1360" height="254" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1601015630739" />
+    <state width="1360" height="254" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1600947375578" />
+    <state width="1360" height="254" key="GridCell.Tab.1.right" timestamp="1601015630741">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1360" height="254" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1601015630741" />
+    <state width="1360" height="254" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1600947375579" />
+    <state x="378" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1602757128911">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="378" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1602757128911" />
+    <state x="378" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1602147297384" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OOP$DeckOFCards.coverage" NAME="DeckOFCards Coverage Results" MODIFIED="1602160664296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/OOP$main.coverage" NAME="main Coverage Results" MODIFIED="1602155890820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/OOP$Bank.coverage" NAME="Bank Coverage Results" MODIFIED="1602154200736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/OOP$Person.coverage" NAME="Person Coverage Results" MODIFIED="1600951213395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+  </component>
+</project>
